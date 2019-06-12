@@ -1,0 +1,17 @@
+{
+    "items":[
+        {
+            "key": "1",
+            "productname": "Iphone X",
+            "cost": "1000",
+            "quant": 1
+        },
+        {
+            "key": "2",
+            "productname": "Galaxy S10",
+            "cost": "800",
+            "quant": 1
+        }
+
+    ]
+}

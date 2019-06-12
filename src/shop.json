@@ -1,0 +1,24 @@
+{
+    "items":[
+        {
+            "key": "3",
+            "productname": "Huawei S10",
+            "cost": "300"
+        },
+        {
+            "key": "4",
+            "productname": "Motorolla S10",
+            "cost": "100"
+        },
+        {
+            "key": "5",
+            "productname": "Beats",
+            "cost": "350"
+        },
+        {
+            "key": "2",
+            "productname": "Airpods",
+            "cost": "250"
+        }
+    ]
+}

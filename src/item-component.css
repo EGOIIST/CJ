@@ -1,0 +1,22 @@
+.name {
+    flex: 1;
+    display: inline-block;
+    margin: 0px 10px 0px 0px
+}
+
+.cost {
+    flex: 1;
+    display: inline-block;
+    margin: 0px 10px 0px 10px
+}
+
+.buttons {
+    display: inline-block;
+    flex: 1;
+    margin: 0px 0px 0px 10px
+}
+
+.rows {
+    flex-direction: row;
+    margin-bottom: 5px
+}
